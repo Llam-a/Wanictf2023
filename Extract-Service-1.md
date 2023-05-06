@@ -18,9 +18,7 @@ Và bởi vì không có filter ở biến `extractTarget` (ở line 38 - 44)
 
 Ở cái website có 1 lỗ hổng tấn công đến `directory traversal`. Các bạn có thể luyện tập và tìm hiểu thêm ở [PortSwigger](https://portswigger.net/web-security/file-path-traversal)
 
-Vậy thì để lấy được flag chúng ta cần that đổi giá trị của tham số `target` thành `../../../../../../flag
-
-`
+Vậy thì để lấy được flag chúng ta cần that đổi giá trị của tham số `target` thành `../../../../../../flag`
 
 # Explain
 
